@@ -105,7 +105,7 @@
                                                   |In|Out|BinaryStdIn|BinaryStdOut|BinaryIn|BinaryOut|Draw|Picture|
                                                   |Stack|Queue|MinPQ|MaxPQ|ST|SET|
                                                   |RectHV|Point2D|
-                                                  |UF|QuickUnionUF|QuickFindUF|WeightedQuickUnionUF|
+                                                  |UF|QuickUnionUF|QuickFindUF|Assignments.WeightedQUnionUF|
                                                   |Graph|Digraph|Edge|DirectedEdge|FlowEdge|
                                                   |DirectedCycle|Topological|FordFulkerson|
                                                   |OperationCountLimitExceededException)$"/>

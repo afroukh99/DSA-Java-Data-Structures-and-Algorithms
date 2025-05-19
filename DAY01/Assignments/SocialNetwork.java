@@ -3,13 +3,13 @@ package Assignments;
 import edu.princeton.cs.algs4.In;
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 
+import java.awt.*;
+
 public class SocialNetwork {
     public static void main (String args[]) {
         In in = new In("log.txt");
         int N  = 50;
-
-        WeightedQuickUnionUF weightedQuickUnionUF = new WeightedQuickUnionUF(N);
-
+        WeightedQUnionUF weightedQuickUnionUF = new WeightedQUnionUF(N);
         while (!(in.isEmpty())) {
             String timeStamp = in.readString();
             int p = in.readInt();
